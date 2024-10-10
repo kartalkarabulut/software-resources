@@ -5,6 +5,8 @@
 
 
 ## State Management    
+  ### [Inherited Widget](https://medium.com/@CavinMac/inherited-widgets-in-depth-413794c3b3d9)
+      -Inherited Widget is a special kind of widget that can be used to pass data down to child widgets. Fun fact: most of state management in Flutter is built on top of Inherited Widget.
   ### Riverpod
   - [Riverpod](https://riverpod.dev/)
   - [Riverpod Course ](https://www.youtube.com/watch?v=vBhQx2qDtGQ)
