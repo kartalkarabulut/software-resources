@@ -5,7 +5,10 @@
 
 
 ## State Management    
-  - Riverpod
+  ### Riverpod
+  - [Riverpod](https://riverpod.dev/)
+  - [Riverpod Course ](https://www.youtube.com/watch?v=vBhQx2qDtGQ)
+
 
 ## DataBases
   - Hive
@@ -28,7 +31,15 @@
     -Android
     -iOS
 
+## Youtube Channels
+  - [Youtube Flutter](https://www.youtube.com/@flutter)
+  - [Flutter Guys](https://www.youtube.com/@FlutterGuys)
+  - [Flutter Maps](https://www.youtube.com/@FlutterMapp)
+  - [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
+
 ## Ecosystem and Useful Links
+  - [Reddit Flutter](https://www.reddit.com/r/FlutterDev/)
+
 
 
 
