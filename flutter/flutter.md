@@ -30,6 +30,7 @@
 - [Solid Principles in a Flutter](https://medium.com/nerd-for-tech/solid-principles-in-a-flutter-32eaf7218476)
 
 ## Clean Architecture
+- [Flutter's Official Application Architecture Documentation](https://docs.flutter.dev/app-architecture)
 - [Clean Architecture Code Example With Riverpod](https://github.com/Uuttssaavv/flutter-clean-architecture-riverpod)
 - [Clean Artchitecture and Test Driven Development](https://betterprogramming.pub/flutter-clean-architecture-test-driven-development-practical-guide-445f388e8604)
 
